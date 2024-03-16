@@ -4,6 +4,6 @@
 
 A program to generate a 6-digit OTP (One Time Password), with C++ and C# versions available.
 
-## Instructions for use
+## Instructions for Use
 
 Navigate to the `OTPGenerator` folder, then select the version you wish to run (CPP or CS).
