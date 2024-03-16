@@ -1,3 +1,3 @@
 # OTP Generator
 
-A C# Program to generate an OTP (One Time Password).
+A program to generate an OTP (One Time Password), with C++ and C# versions available.
